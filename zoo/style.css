@@ -7,6 +7,9 @@ body {
     text-align: center;
 }
 .logo img {
+    background-color: aliceblue;
+    border-radius: 45px;
+    position: fixed;
     width: 75px;
     height: 75px;
 }
@@ -15,12 +18,32 @@ body {
     width: 600px;
     height: 370px;
 }
-.Luipaard p {
+.Dierenlijst p {
+    font-size: large;
     text-align: center;
     padding-left: 300px;
     padding-right: 300px;
 }
-
+.capibara img {
+    width: 450px;
+    padding-left: 780px;
+}
+.kameel img {
+    width: 400px;
+    padding-left: 810px;
+}
+.holuil img {
+    width: 400px;
+    padding-left: 800px;
+}
+.vlinder img {
+    width: 400px;
+    padding-left: 800px;
+}
+.stokstaartje img {
+    width: 400px;
+    padding-left: 800px;
+}
 .dropbtn {
     
     padding: 16px;
