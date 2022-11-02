@@ -2,7 +2,7 @@ body {
     background-color: peru;
 }
 
-.Luipaard h1 {
+.Dierenlijst h1 {
     color: rgb(109, 89, 12);
     text-align: center;
 }
@@ -10,6 +10,17 @@ body {
     width: 75px;
     height: 75px;
 }
+.Luipaard img{
+    padding-left: 720px;
+    width: 600px;
+    height: 370px;
+}
+.Luipaard p {
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
 .dropbtn {
     
     padding: 16px;
