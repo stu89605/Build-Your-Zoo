@@ -1,0 +1,17 @@
+img {
+    width: 450px;
+    padding-left: 780px;
+}
+body {
+    background-color: peru;
+}
+h1 {
+    color: rgb(109, 89, 12);
+    text-align: center;
+}
+p {
+    font-size: large;
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
